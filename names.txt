@@ -1,3 +1,9 @@
+Amit levy, amit122464@gmail.com, +972507701598
 Avichay Har-Tuv, avichay.hartuv@gmail.com, +972544929938
 Yuval Shmuely, yuvalshmuely8@gmail.com, +972503773305 
+<<<<<<< HEAD
 Amitay Almog, amitay.almog@gmail.com, +972504446684
+=======
+Daniel Miroshnichenko, danikmirosh@gmail.com, +972525051980
+
+>>>>>>> aef65446e5f3ca3581f6b3de6bc156e6866cb444
